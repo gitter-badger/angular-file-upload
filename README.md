@@ -1,5 +1,7 @@
  # Angular File Upload
 
+[![Join the chat at https://gitter.im/davidecavaliere/angular-file-upload](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davidecavaliere/angular-file-upload?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## v1.2.0
 * added grunt watch task. Please use ```grunt watch``` to automatically build angular-file-upload.* files for easier development
 * imported ngThumb directive in angularFileUpload moudule
